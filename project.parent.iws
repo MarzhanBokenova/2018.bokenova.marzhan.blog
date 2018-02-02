@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e671baf-0412-459d-8c72-9c47fff6be11" name="Default" comment="Test">
+      <change beforePath="" afterPath="$PROJECT_DIR$/project.controller/src/main/java/hff.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project.controller/src/test/java/jkfgnb.java" />
       <change beforePath="$PROJECT_DIR$/project.parent.iws" afterPath="$PROJECT_DIR$/project.parent.iws" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -94,11 +96,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="asg.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="asg.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.client/src/test/java/asg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hff.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.controller/src/main/java/hff.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jkfgnb.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project.controller/src/test/java/jkfgnb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -230,6 +252,34 @@
               <item name="project.parent" type="462c0819:PsiDirectoryNode" />
               <item name="project.controller" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project.parent" type="462c0819:PsiDirectoryNode" />
+              <item name="project.controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project.parent" type="462c0819:PsiDirectoryNode" />
+              <item name="project.controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project.parent" type="462c0819:PsiDirectoryNode" />
+              <item name="project.controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project.parent" type="462c0819:PsiDirectoryNode" />
+              <item name="project.controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -354,7 +404,7 @@
       <workItem from="1517206680856" duration="452000" />
       <workItem from="1517207293958" duration="75000" />
       <workItem from="1517473016035" duration="9000" />
-      <workItem from="1517558179602" duration="3350000" />
+      <workItem from="1517558179602" duration="3454000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1517559161390</created>
@@ -377,11 +427,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517562119971</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test">
+      <created>1517562162995</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1517562162995</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5289000" />
+    <option name="totallyTimeSpent" value="5393000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -499,8 +556,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project.client/src/test/java/asg.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.controller/src/main/java/hff.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.controller/src/test/java/jkfgnb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
