@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e671baf-0412-459d-8c72-9c47fff6be11" name="Default" comment="Test">
-      <change beforePath="" afterPath="$PROJECT_DIR$/project.controller/src/main/java/hff.java" />
+    <list default="true" id="6e671baf-0412-459d-8c72-9c47fff6be11" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/project.client/src/main/java/asd.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project.client/src/test/java/asg.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/project.parent.iws" afterPath="$PROJECT_DIR$/project.parent.iws" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -79,27 +80,7 @@
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="asd.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project.client/src/main/java/asd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="asg.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project.client/src/test/java/asg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -115,11 +96,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jkfgnb.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jkfgnb.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.controller/src/test/java/jkfgnb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project.client/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -146,6 +137,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/project.client/package.json" />
       </list>
     </option>
   </component>
@@ -164,6 +156,9 @@
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/project.client/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="320" />
@@ -213,56 +208,28 @@
             <path>
               <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="project.parent" type="462c0819:PsiDirectoryNode" />
-              <item name="project.client" type="462c0819:PsiDirectoryNode" />
+              <item name="project.controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project.parent" type="462c0819:PsiDirectoryNode" />
+              <item name="project.controller" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="project.parent" type="462c0819:PsiDirectoryNode" />
-              <item name="project.client" type="462c0819:PsiDirectoryNode" />
+              <item name="project.controller" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="project.parent" type="462c0819:PsiDirectoryNode" />
-              <item name="project.client" type="462c0819:PsiDirectoryNode" />
+              <item name="project.controller" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project.parent" type="462c0819:PsiDirectoryNode" />
-              <item name="project.client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project.parent" type="462c0819:PsiDirectoryNode" />
-              <item name="project.client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project.parent" type="462c0819:PsiDirectoryNode" />
-              <item name="project.controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project.parent" type="462c0819:PsiDirectoryNode" />
-              <item name="project.controller" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project.parent" type="462c0819:PsiDirectoryNode" />
-              <item name="project.controller" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project.parent" type="b2602c69:ProjectViewProjectNode" />
@@ -403,7 +370,7 @@
       <workItem from="1517206680856" duration="452000" />
       <workItem from="1517207293958" duration="75000" />
       <workItem from="1517473016035" duration="9000" />
-      <workItem from="1517558179602" duration="3471000" />
+      <workItem from="1517558179602" duration="5528000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1517559161390</created>
@@ -440,11 +407,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517562262438</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test">
+      <created>1517562274593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1517562274593</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5410000" />
+    <option name="totallyTimeSpent" value="7467000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -547,7 +521,7 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -563,7 +537,7 @@
     <entry file="file://$PROJECT_DIR$/project.client/src/test/java/asg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -578,8 +552,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project.controller/src/test/java/jkfgnb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding />
         </state>
       </provider>
